@@ -1,0 +1,12 @@
+game
+graphics
+menu
+network
+pieces
+sound
+tests.Bishop
+tests.King
+tests.Knight
+tests.Pawn
+tests.Queen
+tests.Rook
